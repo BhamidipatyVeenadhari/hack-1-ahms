@@ -1,6 +1,4 @@
 
-Memory updated
-Yes, you can include the paragraph in a README file on GitHub. Here’s how you might structure it:
 
 Automatic Health Monitoring System
 Overview
